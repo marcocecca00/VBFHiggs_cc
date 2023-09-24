@@ -17,3 +17,5 @@ Open a command prompt, then in a root session:
 - root [0] .L Exam_VBFHcc.C
 - root [1] Exam_VBFHcc t
 - root [2] t.Loop()
+
+The report and the relative documentation can be found in [here](VBFHcc_MarcoCecca.pdf).
