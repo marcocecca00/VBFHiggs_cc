@@ -1,0 +1,17 @@
+      LOGICAL ICOLAMP(1,4,8)
+      DATA(ICOLAMP(I,1,1),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,2,1),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,1,2),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,2,2),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,1,3),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,2,3),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,1,4),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,2,4),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,3,5),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,4,5),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,3,6),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,4,6),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,3,7),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,4,7),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,3,8),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,4,8),I=1,1)/.TRUE./

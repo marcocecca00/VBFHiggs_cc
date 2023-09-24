@@ -1,0 +1,11 @@
+LINK_LOOP_LIBS = -L$(LIBDIR) -lcts -liregi -L/home/marco/software/MG5_aMC_v3_5_0/HEPTools/lib/ -lninja -L/home/marco/software/MG5_aMC_v3_5_0/HEPTools/lib/ -lavh_olo -L/home/marco/software/MG5_aMC_v3_5_0/HEPTools/lib/ -lcollier
+LOOP_LIBS = $(LIBDIR)libcts.$(libext) $(LIBDIR)libiregi.$(libext) /home/marco/software/MG5_aMC_v3_5_0/HEPTools/lib/libninja.$(libext) /home/marco/software/MG5_aMC_v3_5_0/HEPTools/lib/libavh_olo.$(libext) /home/marco/software/MG5_aMC_v3_5_0/HEPTools/lib/libcollier.$(libext)
+LOOP_INCLUDE = -I /home/marco/software/MG5_aMC_v3_5_0/HEPTools/include -I /home/marco/software/MG5_aMC_v3_5_0/HEPTools/include
+LOOP_PREFIX = PV
+DOTO = %.o
+DOTF = %.f
+LINK_MADLOOP_LIB = -L$(LIBDIR) -lMadLoop
+MADLOOP_LIB = $(LIBDIR)libMadLoop.$(libext)
+
+$(MADLOOP_LIB):
+	cd ..; make -f makefile_MadLoop OLP_static

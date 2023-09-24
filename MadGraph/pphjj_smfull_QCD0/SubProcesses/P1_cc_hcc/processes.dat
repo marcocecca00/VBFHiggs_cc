@@ -1,0 +1,6 @@
+1       c c > h c c
+mirror  none
+2       c c~ > h c c~
+mirror  c~ c > h c c~
+3       c~ c~ > h c~ c~
+mirror  none

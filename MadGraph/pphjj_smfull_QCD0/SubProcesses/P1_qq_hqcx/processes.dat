@@ -1,0 +1,16 @@
+1       d u~ > h d c~
+mirror  u~ d > h d c~
+2       d u~ > h s c~
+mirror  u~ d > h s c~
+3       d d~ > h u c~
+mirror  d~ d > h u c~
+4       d s~ > h u c~
+mirror  s~ d > h u c~
+5       s u~ > h d c~
+mirror  u~ s > h d c~
+6       s u~ > h s c~
+mirror  u~ s > h s c~
+7       s d~ > h u c~
+mirror  d~ s > h u c~
+8       s s~ > h u c~
+mirror  s~ s > h u c~

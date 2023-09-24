@@ -1,0 +1,10 @@
+1       u u~ > c c~ c c~
+mirror  u~ u > c c~ c c~
+2       d d~ > c c~ c c~
+mirror  d~ d > c c~ c c~
+3       d s~ > c c~ c c~
+mirror  s~ d > c c~ c c~
+4       s d~ > c c~ c c~
+mirror  d~ s > c c~ c c~
+5       s s~ > c c~ c c~
+mirror  s~ s > c c~ c c~

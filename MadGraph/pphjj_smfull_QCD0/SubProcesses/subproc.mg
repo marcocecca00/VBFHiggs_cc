@@ -1,0 +1,10 @@
+P1_cc_hcc
+P1_cq_hcq
+P1_ccx_hqq
+P1_qcx_hqcx
+P1_qq_hccx
+P1_qq_hqq
+P1_qq_hcq
+P1_qcx_hqq
+P1_cq_hqq
+P1_qq_hqcx

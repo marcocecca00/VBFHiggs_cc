@@ -1,0 +1,6 @@
+         666         1           1      !Number of events and max and min iterations
+  0.02    !Accuracy
+  -2       !Grid Adjustment 0=none, 2=adjust
+  1       !Suppress Amplitude 1=yes
+  1        !Helicity Sum/event 0=exact
+        

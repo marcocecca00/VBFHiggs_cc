@@ -1,0 +1,68 @@
+1       u u > c c~ u u
+mirror  none
+2       u d > c c~ u d
+mirror  d u > c c~ u d
+3       u d > c c~ u s
+mirror  d u > c c~ u s
+4       u s > c c~ u d
+mirror  s u > c c~ u d
+5       u s > c c~ u s
+mirror  s u > c c~ u s
+6       u u~ > c c~ u u~
+mirror  u~ u > c c~ u u~
+7       u u~ > c c~ d d~
+mirror  u~ u > c c~ d d~
+8       u u~ > c c~ d s~
+mirror  u~ u > c c~ d s~
+9       u u~ > c c~ s d~
+mirror  u~ u > c c~ s d~
+10      u u~ > c c~ s s~
+mirror  u~ u > c c~ s s~
+11      u d~ > c c~ u d~
+mirror  d~ u > c c~ u d~
+12      u d~ > c c~ u s~
+mirror  d~ u > c c~ u s~
+13      u s~ > c c~ u d~
+mirror  s~ u > c c~ u d~
+14      u s~ > c c~ u s~
+mirror  s~ u > c c~ u s~
+15      d d > c c~ d d,s s > c c~ s s
+mirror  none
+16      d s > c c~ d s
+mirror  s d > c c~ d s
+17      d u~ > c c~ d u~
+mirror  u~ d > c c~ d u~
+18      d u~ > c c~ s u~
+mirror  u~ d > c c~ s u~
+19      d d~ > c c~ u u~
+mirror  d~ d > c c~ u u~
+20      d d~ > c c~ d d~,s s~ > c c~ s s~
+mirror  d~ d > c c~ d d~,s~ s > c c~ s s~
+21      d d~ > c c~ s s~,s s~ > c c~ d d~
+mirror  d~ d > c c~ s s~,s~ s > c c~ d d~
+22      d s~ > c c~ u u~
+mirror  s~ d > c c~ u u~
+23      d s~ > c c~ d s~,s d~ > c c~ s d~
+mirror  s~ d > c c~ d s~,d~ s > c c~ s d~
+24      s u~ > c c~ d u~
+mirror  u~ s > c c~ d u~
+25      s u~ > c c~ s u~
+mirror  u~ s > c c~ s u~
+26      s d~ > c c~ u u~
+mirror  d~ s > c c~ u u~
+27      s s~ > c c~ u u~
+mirror  s~ s > c c~ u u~
+28      u~ u~ > c c~ u~ u~
+mirror  none
+29      u~ d~ > c c~ u~ d~
+mirror  d~ u~ > c c~ u~ d~
+30      u~ d~ > c c~ u~ s~
+mirror  d~ u~ > c c~ u~ s~
+31      u~ s~ > c c~ u~ d~
+mirror  s~ u~ > c c~ u~ d~
+32      u~ s~ > c c~ u~ s~
+mirror  s~ u~ > c c~ u~ s~
+33      d~ d~ > c c~ d~ d~,s~ s~ > c c~ s~ s~
+mirror  none
+34      d~ s~ > c c~ d~ s~
+mirror  s~ d~ > c c~ d~ s~
