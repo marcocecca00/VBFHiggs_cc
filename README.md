@@ -10,7 +10,8 @@ The file contains several variables, but the relevant ones to be used are:
 
 We prepared a macro ( Exam_VBFHcc.C ) that can run on the events stored in the file, loop on the  gen-leve jets and flag the ones coming from the Higgs boson. 
 
-How to run the macro:
+### How to run the macro
+
 Open a command prompt, then in a root session:
 
 - root [0] .L Exam_VBFHcc.C
